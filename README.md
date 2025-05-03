@@ -1,13 +1,16 @@
 # Alura-Data-science-challenge
 
-Introdução: Basicamente um challenge da Alura para analisarmos 4 lojas para ajudarmos o Sr.João a escolher a melhor loja pra ele vender e iniciar um novo empreendimento. Então vou analisar dados de vendas, desempenho e avaliações das 4 lojas. Lembrando que é apenas lojas fictícias com dados fictícios.
+**Introdução**: Basicamente um challenge da Alura para analisarmos 4 lojas para ajudarmos o Sr.João a escolher a melhor loja pra ele vender e iniciar um novo empreendimento. Então vou analisar dados de vendas, desempenho e avaliações das 4 lojas. Lembrando que é apenas lojas fictícias com dados fictícios.
 
 # ⚒️ Ferramentas ultilizadas:
-Python,
-Pandas,
-Matplotlib
+__Python__
 
-Gráficos e Insights:
+
+
+__Pandas__
+
+
+__Matplotlib__
 
 # 📊 Gráficos de barras com as informações de faturamento das 4 lojas.
 Obs: A loja 1 teve mais faturamento dentre as outras lojas.
@@ -27,4 +30,4 @@ Obs: A loja 3 foi a mais bem avaliada entre as 4 sendo a pior avaliada a loja 1
 ![image](https://github.com/user-attachments/assets/0f8827bb-a789-4a64-91b2-90c8c2e4b461)
 
 # 📂 Acessar o projeto
-Pode acessar o projeto atraves deste link:https://github.com/IanSantos999/Alura-Data-science-challenge
+Pode acessar o projeto atraves deste link: https://github.com/IanSantos999/Alura-Data-science-challenge
