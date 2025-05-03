@@ -27,4 +27,4 @@ Obs: A loja 3 foi a mais bem avaliada entre as 4 sendo a pior avaliada a loja 1
 ![image](https://github.com/user-attachments/assets/0f8827bb-a789-4a64-91b2-90c8c2e4b461)
 
 # 📂 Acessar o projeto
-Pode acessar o projeto atraves deste link:
+Pode acessar o projeto atraves deste link:https://github.com/IanSantos999/Alura-Data-science-challenge
